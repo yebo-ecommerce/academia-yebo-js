@@ -3,7 +3,7 @@ services:
   web:
     image: mhart/alpine-node
     ports:
-      - 81:8080
+      - 81:81
     working_dir: /app
     command: npm run start
     volumes:
