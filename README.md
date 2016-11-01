@@ -1,4 +1,4 @@
-# academia-yebo-js
+# Academia Yebo de Javascript
 Tutorias e aulas
 
 # Como funciona com docker?
